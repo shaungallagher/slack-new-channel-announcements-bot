@@ -1,2 +1,7 @@
-# slack-new-channel-announcements-bot
-This Slack bot posts an announcement whenever a new channel is created.
+## The "Hey, There's a New Channel!" Slack Bot
+
+This Python script allows a Slack bot to post an announcement whenever a new channel is created.
+
+Requires the [slack](https://github.com/kn/slack) Python package to interact with the Slack API.
+
+
